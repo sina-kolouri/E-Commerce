@@ -1,0 +1,40 @@
+.loader{
+    height: 100vh;
+}
+
+.t{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+ @media (max-width: 1495.99px) {
+    .wrapper-card{
+        width: 76rem;
+    }
+ }
+
+ @media (max-width: 1192.99px) {
+    .wrapper-card{
+        width: 57rem;
+    }
+ }
+
+ 
+ @media (max-width: 887.99px) {
+    .wrapper-card{
+        width: 38rem;
+    }
+ }
+
+
+@media (max-width: 583.99px) {
+    .wrapper-card{
+        width: 18rem;
+    }
+ }
+
+ 
